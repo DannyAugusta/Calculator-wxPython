@@ -28,7 +28,7 @@ Podporuje běžné matematické operace, funkce `sin`, `cos`, `tan`, `log`, `ln`
 ## Spuštění
 V příkazové řádce spusť:
 
-python kalkulacka.py
+   python kalkulacka.py
 
 Otevře se okno s grafickým rozhraním kalkulačky.
 
