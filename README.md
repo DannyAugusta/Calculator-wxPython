@@ -23,7 +23,7 @@ Podporuje běžné matematické operace, funkce `sin`, `cos`, `tan`, `log`, `ln`
    
 2. Nainstaluj potřebnou knihovnu wxPython:
 
-pip install wxPython
+   pip install wxPython
 
 ## Spuštění
 V příkazové řádce spusť:
