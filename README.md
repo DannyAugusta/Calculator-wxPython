@@ -45,14 +45,17 @@ Tlačítko H zobrazí / skryje historii.
 Po kliknutí na = se výsledek zobrazí v poli — při dalším psaní se původní příklad smaže.
 
 ## Příklady pro testování
-Výraz	Očekávaný výsledek (v režimu deg)
-2 + 2 =	4
-5 * (3 + 2) =	25
-sin(90) =	1
-cos(0) =	1
-tan(45) =	1
-ln(2.71828)	≈ 1
-log(1000) =	3
-π * 2	≈ 6.28318
-10 % =	0.1
-3^2 nebo 3 x² =	9
+
+| Výraz               | Výsledek    |
+|--------------------|--------------|
+| 2 + 2              | 4            |
+| 5 * (3 + 2)        | 25           |
+| sin(90)            | 1            |
+| cos(0)             | 1            |
+| tan(45)            | 1            |
+| ln(2.71828)        | ≈ 1          |
+| log(1000)          | 3            |
+| π * 2              | ≈ 6.28318    |
+| 10 %               | 0.1          |
+| 3² nebo 3 x²       | 9            |
+
